@@ -1,6 +1,9 @@
 # VolumeLab
 体渲染相关...
 
+### Articles
+* BlueNoise: https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/
+
 ### Talks
 * Coding Adventure: Clouds： https://www.youtube.com/watch?v=4QOcCGI6xOU
 
