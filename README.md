@@ -6,6 +6,7 @@
 * Creating volumetric ray-marcher(UE4): https://shaderbits.com/blog/creating-volumetric-ray-marcher
 ### Talks
 * Coding Adventure: Clouds： https://www.youtube.com/watch?v=4QOcCGI6xOU
+* https://www.schneidervfx.com/
 
 ### ShaderToys
 * Spherical Volumetric Fog: https://www.shadertoy.com/view/3d23RG
